@@ -1,0 +1,10 @@
+#ifndef __EXAMPLES_JPEG_DECODE_H
+#define __EXAMPLES_JPEG_DECODE_H
+
+// #include <externals/libjpeg/jpeglib.h>
+#include "jpeglib.h"
+#include<setjmp.h>
+int read_JPEG_file(char *filename);
+void put_scanline_someplace(JSAMPLE *data, int len);
+
+#endif
