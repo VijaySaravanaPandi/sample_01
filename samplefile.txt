@@ -1,3 +1,4 @@
+
 #ifndef __EXAMPLES_JPEG_DECODE_H
 #define __EXAMPLES_JPEG_DECODE_H
 
@@ -8,3 +9,10 @@ int read_JPEG_file(char *filename);
 void put_scanline_someplace(JSAMPLE *data, int len);
 
 #endif
+hello1.txt
+myself vijay saravana pandi 
+vdfgdbesrhb
+:
+
+heyyyyyyyyyyyyy
+amrita viswa vidyapeetham
